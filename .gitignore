@@ -1,0 +1,15 @@
+build/
+dist/
+CMakeUserPresets.json
+compile_commands.json
+bin/
+obj/
+*.o
+*.obj
+*.pdb
+*.ilk
+*.layout
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
